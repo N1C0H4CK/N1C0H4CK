@@ -1,19 +1,10 @@
 
 Hi there!
 
-I'm N1C0H4CK, an ISMS Auditor, Governance and Risk Management Specialist with a passion for ethical hacking and home lab setups. 
+I’m N1C, the creator of ZEROH4CK. 
 
-🛠️🔒 Here, you'll find a mix of projects:
+With a passion for ethical hacking and cybersecurity, I’ve dedicated myself to researching hacker behavior, understanding how to stay secure online, and sharing that knowledge with others. My goal is to provide cybersecurity students and professionals with the tools and skills they need to excel in the world of ethical hacking.
 
-- Tech and Audit Tools: Scripts, spreadsheets, and resources to streamline compliance and security.
+Through ZEROH4CK, I aim to foster a community of learners and practitioners who are always curious and eager to stay ahead in the cybersecurity field.
 
-- Ethical Hacking: Labs, tools, and experiments in cybersecurity to sharpen my skills.
 
-- Home Lab Adventures: Documentation and setups for exploring new tech in a controlled environment.
-  
-
-Feel free to explore, star, or fork anything you find useful. Collaboration and feedback are always welcome!
-<!---
-N1C0H4CK/N1C0H4CK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
